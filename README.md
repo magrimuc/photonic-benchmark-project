@@ -64,3 +64,4 @@ Das reicht für die meisten Analysen vollkommen aus. Komplexere Modelle (z. B. v
 ```bash
 pip install -r requirements.txt
 jupyter lab# photonic-benchmark-project
+# photonic-benchmark-project
